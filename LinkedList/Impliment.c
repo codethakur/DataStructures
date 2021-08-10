@@ -1,4 +1,5 @@
-
+/* Implentation of linked list 
+Here, i'm just adding data */
 
 #include<stdlib.h>
 #include<stdio.h>
